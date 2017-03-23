@@ -1,2 +1,4 @@
-Hi this is just for testing the correct working of my git
+Hi this is just for testing the correct working of my git.
+
+This is an alternation for the file.
 
